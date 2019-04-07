@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(236, 191, 198);
+}
+
+header {
+    background-color: orange;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+p {
+    padding-top: 20px;
+    padding-left:20px;
+    padding-right: 20px;
+    font-size: 15px;
+}
+
+#instructions {
+    background-color: rgb(223, 216, 158);
+    color: rgb(93, 182, 155);
+    margin: 10px;
+    height: 350px;
+    width: 350px;
+
+}
+
+#numToMatch {
+    background-color: rgb(93, 182, 155);
+    padding-right: 50px;
+    margin-left: 10px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 100px;
+    height: 75px;
+    float: left;
+    font-weight: bolder;
+    width:150px;
+    line-height: 2;
+    font-size: 20px;
+    text-align: center;
+
+    
+}
+
+#keepTrack {
+    float: left;
+    background-color: blue;
+    color: white;
+    margin-left: 10px;
+  
+}
+
+#crystalPics {
+    clear: both;
+    margin-right: 10px;
+}
+
+img {
+    height: 75px;
+    width: 75px;
+    margin: 10px;
+}
+
+#scoreCount {
+    background-color: rgb(14, 98, 109);
+    text-align: center;
+    font-weight: bolder;
+    margin-left: 10px;
+    font-size: 20px;
+    width: 200px;
+}
